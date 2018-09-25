@@ -1,0 +1,1 @@
+This is the repository for Pomona College Math 2018 Arts Clinic.  
